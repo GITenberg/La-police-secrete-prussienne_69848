@@ -1,0 +1,34 @@
+_repo: La-police-secrete-prussienne_69848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tissot, Victor
+    birthdate: 1845
+    deathdate: 1917
+    gutenberg_agent_id: '7548'
+    url: http://www.gutenberg.org/2009/agents/7548
+    wikipedia: https://fr.wikipedia.org/wiki/Victor_Tissot
+description: ''
+gutenberg_issued: '2023-01-20'
+identifiers:
+  gutenberg: '69848'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k206652c
+pgterms:marc905: 20210321140009tissot
+pgterms:marc906: '1885'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: 'France: E. Dentu,1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Police -- Germany -- Prussia'
+- !lcsh 'Secret service -- Germany -- Prussia'
+- !lcc 'DD'
+- !lcc 'HV'
+- GITenberg
+title: La police secrète prussienne
+url: http://www.gutenberg.org/ebooks/69848
